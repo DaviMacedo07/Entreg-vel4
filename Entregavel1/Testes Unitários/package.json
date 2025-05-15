@@ -1,0 +1,24 @@
+{
+  "name": "testes-unitarios",
+  "version": "1.0.0",
+  "main": "MaximoDivisorComum.js",
+  "scripts": {
+  "test": "jest"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaviMacedo07/Entregavel1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaviMacedo07/Entregavel1/issues"
+  },
+  "homepage": "https://github.com/DaviMacedo07/Entregavel1#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
